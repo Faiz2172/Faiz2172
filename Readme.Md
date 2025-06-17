@@ -1,6 +1,5 @@
 Hi there, I'm Faiz! 👋
 
-🚀 About Me
 I'm a passionate technologist with a deep love for innovation, open-source collaboration, and cutting-edge technologies. My journey in tech is driven by curiosity, a desire to solve complex problems, and a commitment to continuous learning.
 
 ## 🔥 Professional Summary
