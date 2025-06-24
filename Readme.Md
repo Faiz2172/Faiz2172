@@ -1,3 +1,5 @@
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 Hi there, I'm Faiz! 👋
 
 I'm a passionate technologist with a deep love for innovation, open-source collaboration, and cutting-edge technologies. My journey in tech is driven by curiosity, a desire to solve complex problems, and a commitment to continuous learning.
