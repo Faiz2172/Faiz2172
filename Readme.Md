@@ -67,5 +67,3 @@ When I'm not coding, you'll find me hiking and exploring the beauty of nature �
 ---
 **Profile Views** 
 ![Visits Badge](https://badges.pufler.dev/visits/Faiz2172/Faiz2172)
-
-*Crafted with ❤️ by Faiz*
