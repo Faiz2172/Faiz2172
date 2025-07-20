@@ -46,8 +46,8 @@ I'm a passionate technologist with a deep love for innovation, open-source colla
   <a href="https://wheelzy.vercel.app">
     <img width="600" alt="Wheelzy Project" src="https://github.com/user-attachments/assets/656efe27-205b-4fb1-9b5c-3d40909a6fe2" />
   </a>
-  <a href="https://github.com/Faiz2172/repo2">
-    <img width="600" alt="Project 2" src="https://github.com/user-attachments/assets/656efe27-205b-4fb1-9b5c-3d40909a6fe2" />
+  <a href="https://smart-stock.streamlit.app">
+    <img width="600"  alt="Image" src="https://github.com/user-attachments/assets/ce6dcda0-bc79-422e-8034-7d89496adcb1" />
   </a>
 </p>
 
