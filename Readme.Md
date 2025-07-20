@@ -41,7 +41,7 @@ I'm a passionate technologist with a deep love for innovation, open-source colla
 ## 🏆 Highlighted Projects
 <p align="center">
   <a href="https://wheelzy.vercel.app">
-    <img width="1890" height="902" alt="Image" src="https://github.com/user-attachments/assets/656efe27-205b-4fb1-9b5c-3d40909a6fe2" />
+    <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/656efe27-205b-4fb1-9b5c-3d40909a6fe2" />
   </a>
   <a href="https://github.com/Faiz2172/repo2">
     <img width="1890" height="902" alt="Image" src="https://github.com/user-attachments/assets/656efe27-205b-4fb1-9b5c-3d40909a6fe2" />
