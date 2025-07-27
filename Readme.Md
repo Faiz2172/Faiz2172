@@ -10,7 +10,7 @@
 
 - ✉️️ You can contact me at **shkfaiz2004@gmail.com**
 
-- 📄 Know about me [Resume](https://drive.google.com/file/d/1hlJnhXm4veJshI1HvVsWY3d4vc1NVNmk/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1BD0IVuq-ltMdd8fcKUDsKgB9hNtg_pkA/view?usp=drivesdk)
 
 - 🤝 I'm open to collaborating on **interesting projects**
 
