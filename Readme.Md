@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <br>
 
-- 🌱 I’m currently exploring **Python**
+- 🌱 I’m currently exploring **Machine Learning**
 
 - 👨‍💻 See my portfolio at [shaikhfaiz.vercel.app](http://shaikhfaiz.vercel.app)
 
